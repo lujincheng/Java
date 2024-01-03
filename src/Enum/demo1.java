@@ -23,5 +23,6 @@ public class demo1 {
         System.out.println("green.equals(Size.MIDDLE): " + green.equals(Size.MIDDLE));
         System.out.println("green.equals(1): " + green.equals(1));
         System.out.format("green == Color.GREEN: %b \n ", green == Color.GREEN);
+        
     }
 }
